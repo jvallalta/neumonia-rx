@@ -4,5 +4,5 @@ En este proyecto analizaremos los datos del NHI Chest X-ray Dataset y entrenarem
 
 El objetivo del proyecto es construir un modelo que pueda predecir la presencia de neumonía con una exactitud similar a la de un radiólogo. También prepararemos la documentación necesaria para la presentación a la FDA mediante la vía 510 (k) para conseguir su aprobación de software como dispositivo médico. 
 
-Utilizaremos un conjunto de 112.000 imágenes de rayox X procedentes de 30.000 pacientes etiquetadas con la patología a partir de los informes del radiólogo.
+Utilizaremos un conjunto de 112.000 imágenes de Rayos X procedentes de 30.000 pacientes etiquetadas con la patología a partir de los informes del radiólogo.
 
